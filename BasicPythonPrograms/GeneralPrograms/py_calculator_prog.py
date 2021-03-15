@@ -1,13 +1,4 @@
-    #Program for the calculator Operation.....
-#The different datatypes....
-#c = 5
-#b = 2.8
-#d = "soumya"
-#To print the datatypes of the variables
-#print(c,"is of type: ",type(c))
-#print(b,"is of type: ",type(b))
-#print(d,"is of type: ",type(d))
-#----------------------------------------------------------
+#Program for the calculator Operation.....
 
 print("Welcome to the calculator.....!")
 
