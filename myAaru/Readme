@@ -1,0 +1,14 @@
+****************** Aaru - Your Personal Companion ******************
+
+This is a voice assistant project which is based upon the pythons speech recognition module. It used python libraries such as - 
+1. speech_recognition - to recognize speech
+3. pyjokes - to tell random jokes
+4. pyttsx3 - for text to speech conversion, etc.
+
+The aim of this project is to learn to create different functionalities using speech recognition like 
+1. telling jokes, 
+2. telling information from wikipedia, 
+3. telling weather, 
+4. making a todo list, 
+5. playing music, 
+6. setting reminders, etc.
